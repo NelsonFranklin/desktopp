@@ -1,0 +1,39 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CwfyCysjjV870E8OVvgSrp7ugC6rTtstG57-ZwbYD3JPYz8MEEAEgqPCmBmDlAqABrOW61QPIAQaoAwGqBOkBT9AfB8sL4eC7akig1wXIRjzw6SPbO4Xg1N3hV-u1vKapg3GF-JeBXntuvzAExCnxljVhRGyhJ-qrmex7U70MZoOtGPU42D2_ktpxL8LdZmT3shTvHD2X1UoAByjrePfN_NymIW8bugbG7UnOeVsmvqFQwpNl4UYEcHRQYGZTbr0up3qZa0_PV9ki2X-8it79wyb4WDCWsCYCaVjgD_FaL5R4zSZWZYHeuBQCVpp6xrZD_94tBndQr_dGPh2N6xyjcz9x2biuK5LHuVxIgXAvJ5Di-MFlh7gpJAipLBsmuuIfaWS9QJeNqdj6BQYIJRABGACIBgGgBjeAB7yaxSqoB4HGG6gHpr4b2AcB0ggFCIBhEAHYEww&amp;num=1&amp;cid=CAASEuRo8Jp-TMOwiB62x20XHSn-wg&amp;sig=AOD64_396u-NwE2zx_04Ds-u1-QEIg7qtQ&amp;adurl=http://www.amazon.in/Logitech-MK215-Wireless-Keyboard-Mouse/dp/B012MQS060%3Ftag%3Dgooginremarketing15-21%26tag%3Dgooginremarketing15-21&amp;client=ca-timesofindia_site_js"; 
+google_ad.visible_url = "logitech"; 
+google_ad.p_creative_view_url = "";
+google_ad.p_engaged_view_url = "";
+google_ad.p_videoplaytime_25_url = "";
+google_ad.p_videoplaytime_50_url = "";
+google_ad.p_videoplaytime_75_url = "";
+google_ad.p_videoplaytime_100_url = "";
+google_ad.log_info = "Bi0ZJysjjV870E8OVvgSrp7ugCwDnv5nBtgMAABABOAHIAQagBjfCExgKEBDUp9fcWiIICAIQARgBIAAYrOW61QM";
+google_ad.activeview_cid = "CAASFeRo8Jp-TMOwiB62x20XHSn-wq3vXQ";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ocy=1&ud=1&la=0&";
+google_ad.line1 = "Logitech MK215 Wireles..."; 
+google_ad.line2 = "\x26#8377;\x26#160;1,208"; 
+google_ad.line3 = "Buy Now"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://timesofindia.indiatimes.com/city/hyderabad/Sinkhole-hits-traffic-on-Necklace-road/articleshow/54458307.cms%26gl%3DIN%26hl%3Den%26client%3Dca-timesofindia_site_js%26hideleadgen%3D1%26ai0%3DCAwMeysjjV870E8OVvgSrp7ugC6rTtstG57-ZwbYD3JPYz8MEEAEgqPCmBmDlAqABrOW61QPIAQaoAwGqBOkBT9AfB8sL4eC7akig1wXIRjzw6SPbO4Xg1N3hV-u1vKapg3GF-JeBXntuvzAExCnxljVhRGyhJ-qrmex7U70MZoOtGPU42D2_ktpxL8LdZmT3shTvHD2X1UoAByjrePfN_NymIW8bugbG7UnOeVsmvqFQwpNl4UYEcHRQYGZTbr0up3qZa0_PV9ki2X-8it79wyb4WDCWsCYCaVjgD_FaL5R4zSZWZYHeuBQCVpp6xrZD_94tBndQr_dGPh2N6xyjcz9x2biuK5LHuVxIgXAvJ5Di-MFlh7gpJAipLBsmuuIfaWS9QJeNqdiIBgGgBjeAB7yaxSqoB4HGG6gHpr4b2AcB0ggFCIBhEAHYEww\x26usg\x3dAFQjCNFO6Le4kjfKaDMlbg7P0fpW5DnKtw";
+var google_attribution_text = "Ads by Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}
